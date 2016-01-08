@@ -1,0 +1,28 @@
+name: nixtu
+favicon: null
+layout_spectrum: 0.023277628468349576
+typography_spectrum: 0.4009279164019972
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.10321212629787624
+  lightness: 0.07632976537570357
+  saturation: 0.7057025891263038
+  rhythmicContrast: 0.06680482509545982
+purpose: []
